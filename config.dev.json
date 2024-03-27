@@ -64,7 +64,7 @@
     "socket": {
       "enable": true,
       "channelName": "uptime",
-      
+      "verifyToken":
     }
   },
   "autoRestart": {
